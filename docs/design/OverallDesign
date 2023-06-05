@@ -1,0 +1,15 @@
+- The alarm should always run
+	- eventually will create a startup script to start it
+	
+- Alarm should be armed/disarmed via single button
+	- this can be a hidden button
+	- can also be sequence programed that acts as key
+	- arming should give time to leave
+	
+- Properties loaded by property file
+
+
+
+- eventually alarm trigger can give off warning (gives you 10 seconds to react) to address false alarms
+	- after warning it can go off for say 20 minutes...
+	

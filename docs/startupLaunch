@@ -1,0 +1,5 @@
+1. run: sudo nano /etc/rc.local
+
+2. before the "exit 0" enter: python3 /home/pi/PiCounter/display.py &
+
+3. CTRL + O  to save
